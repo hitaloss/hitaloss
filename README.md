@@ -1,7 +1,7 @@
 
 ### Olá, sou Hítalo Santos, Bem Vindo (a)! 👋
 
-- Atualmente estou cursando para me tornar um Desenvolvedor Full-Stack
+- Atualmente estou cursando para me tornar um Desenvolvedor Full-Stack 😄
 ##
 <div align="center">
   <a href="https://github.com/hitaloss">
