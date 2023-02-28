@@ -28,7 +28,7 @@
 <div> 
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=hitalo.2014.hs@gmail.com&subject=Solicita%C3%A7%C3%A3o+de+contato&body=Ol%C3%A1,%0A%0A+Estou+entrando+em+contato+afim+de+saber+um+pouco+mais+sobre+voc%C3%AA.+%0A%0APor+favor+retorne+este+email+assim+que+puder,+obrigado!+%0A%0ACaso+este+retorno+demore,+tentarei+entrar+em+contato+em+outro+momento.%0A%0A%0AAtenciosamente,%20%0A%0A%0A%0A"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hitalosantossilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <!--
   ![Snake animation](https://github.com/hitaloss/hitaloss/blob/output/github-contribution-grid-snake.svg)
- 
+ -->
 </div>
